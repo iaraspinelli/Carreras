@@ -7,4 +7,4 @@ El objetivo del juego consiste en sumar la mayor cantidad de puntos, en base a l
 </p>
 
 <h2>Portada del juego</h2>
-<img src="![pygame](https://github.com/user-attachments/assets/031d67f5-8504-4d70-b7ea-07d925bcf033)">
+![pygame](https://github.com/user-attachments/assets/031d67f5-8504-4d70-b7ea-07d925bcf033)
